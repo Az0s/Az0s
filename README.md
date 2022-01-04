@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-
+@OSSDAO-ORG•AIRDROP-0x8E6F92681beE42723EB49e80141e89F04458699c
 <img align ="right" src="https://github-readme-stats.vercel.app/api?username=Az0s&hide=contribs,prs&show_icons=true&theme=ayu-mirage" width ="350"> 
 
 ```
