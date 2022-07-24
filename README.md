@@ -10,11 +10,10 @@ Here are some ideas to get you started:
 
 ```
 - 🤔 Sophomore Majoring CS
-- 🔭 Working on CNNs-DL deployed to Core-ML
-- 🤖 DL SkillLevel: mnst.py
-- ⛓ Learning Solidity♦
-- 👯 Interested in Web3 Projects!
-- 🦝 Call me Paguma(My name pronounce like it)!
+- 🔭 Crypto Degen
+- 🤖 Coding_is_fun.
+- ⛓ Learning Solidity & JS.
+- 🦝 Paguma.eth
 ```
 
 <!--
