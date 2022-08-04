@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 <img align ="right" src="https://github-readme-stats.vercel.app/api?username=Az0s&hide=contribs,prs&show_icons=true&theme=ayu-mirage" width ="350"> 
 
 ```
-- 🤔 Sophomore Majoring CS
+- 🤔 Third year in CS
 - 🔭 Crypto Degen
-- 🤖 Coding_is_fun.
-- ⛓ Learning Solidity & JS.
+- 🤖 coding_is_fun.
+- ⛓ Learning Solidity & Node.js.
 - 🦝 Paguma.eth
+- 👀 Co-Founder of contri.build
 ```
 
 <!--
