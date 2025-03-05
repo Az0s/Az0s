@@ -9,9 +9,7 @@ Here are some ideas to get you started:
 <img align ="right" src="https://github-readme-stats.vercel.app/api?username=Az0s&hide=contribs,prs&show_icons=true&theme=ayu-mirage" width ="350"> 
 
 ```
-- 🦝 paguma.eth
-- 👀 co-found [contri](https://contri.build)
-- 🧪 contact point prediction from amino acid sequence
+- 🎓 Graduated and masterfully unemployed
 ```
 
 <!--
